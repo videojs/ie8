@@ -1,0 +1,22 @@
+{
+  "name": "videojs-ie8",
+  "version": "1.0.0",
+  "description": "Files necessary for IE8 support in Video.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/videojs/ie8.git"
+  },
+  "keywords": [
+    "videojs",
+    "ie8"
+  ],
+  "author": "heff",
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "https://github.com/videojs/ie8/issues"
+  },
+  "homepage": "https://github.com/videojs/ie8#readme",
+  "dependencies": {
+    "es5-shim": "^4.1.4"
+  }
+}
