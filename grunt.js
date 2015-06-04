@@ -45,5 +45,5 @@ module.exports = function(grunt) {
   require('load-grunt-tasks')(grunt);
 
   grunt.registerTask('default', 'dist');
-  grunt.registerTask('dist', ['clean', 'copy', 'concat', 'uglify']);
+  grunt.registerTask('dist', ['clean', 'concat', 'uglify']);
 };
