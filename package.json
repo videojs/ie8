@@ -1,6 +1,6 @@
 {
   "name": "videojs-ie8",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Files necessary for IE8 support in Video.js",
   "repository": {
     "type": "git",
