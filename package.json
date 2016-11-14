@@ -20,12 +20,12 @@
     "es5-shim": "^4.5.1"
   },
   "devDependencies": {
-    "babel": "^5.4.7",
-    "grunt": "^0.4.5",
-    "grunt-contrib-clean": "^0.6.0",
-    "grunt-contrib-concat": "^0.5.1",
-    "grunt-contrib-copy": "^0.8.0",
-    "grunt-contrib-uglify": "^0.9.1",
+    "babel": "^6.5.2",
+    "grunt": "^1.0.1",
+    "grunt-contrib-clean": "^1.0.0",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-contrib-uglify": "^2.0.0",
     "load-grunt-tasks": "^3.2.0",
     "time-grunt": "^1.2.1"
   }
